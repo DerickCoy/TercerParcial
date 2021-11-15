@@ -1,6 +1,10 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
 .DS_Store
-node_modules
-/dist
 
 
 # local env files
